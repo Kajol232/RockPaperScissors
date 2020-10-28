@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="_0">0</string>
+    <string name="computerimage">computerimage</string>
+    <string name="colonimage">colonimage</string>
+    <string name="personimage">personimage</string>
+</resources>
